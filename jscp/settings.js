@@ -382,7 +382,7 @@ function initializeDefaultSettings() {
             },
             { 
                 image: './image/photos/b4.png', 
-                content: 'I’m happy. Stay happy, my friend.' 
+                content: 'As long as you’re smiling, I’m happy. Stay happy, my friend.' 
             },
         
             // Lembar 3
