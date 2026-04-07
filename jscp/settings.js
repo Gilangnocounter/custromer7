@@ -355,7 +355,7 @@ function initializeDefaultSettings() {
         matrixColor2: '#ff1493', 
         sequence: 'HAPPY|BIRTHDAY|TO|DYANN|🐼',
         sequenceColor: '#ff69b4', 
-        gift: './image/happy5.gif',
+        gift: './image/happy3.gif',
         enableBook: true,
         enableHeart: true,
         isSave: false,  
